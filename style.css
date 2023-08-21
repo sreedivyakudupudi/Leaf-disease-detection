@@ -1,0 +1,29 @@
+span.css-10trblm.e16nr0p30{
+   text-align: center;
+   color: rgb(4, 4, 71);
+}
+div.css-1kyxreq.etr89bj2{
+    margin:10px;
+}
+ul.nav.nav-pills.mb-auto.nav-justified{
+    margin-top: 0px;
+}
+div.stButton > button:first-child { 
+    margin: 32px 59px;
+    padding: 4px 14px;
+    margin-top: 15px;
+    margin-bottom: 44px;
+    color: #060606;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20%;
+    background-color: #f1f5cf;
+    height: 2em;
+    width: 100px; 
+    border: 2px solid #865619;
+    
+    }
+    div.stButton > button:first-child:hover { 
+        color: red;
+        background-color:#f7f789;
+    }
